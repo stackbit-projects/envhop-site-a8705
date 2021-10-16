@@ -3,7 +3,7 @@
     "palette": "blue",
     "header": {
         "logo_img": "images/logo.svg",
-        "logo_img_alt": "Env",
+        "logo_img_alt": "EnvHop",
         "has_nav": true,
         "nav_links": [
             {
